@@ -1,5 +1,5 @@
 # Maven_Spring_Hibernate_MySQL
-Test Spring App
+Test1 Spring MVC App
 
 Language - Java<br />
 Database - MySQL<br />
